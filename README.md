@@ -1,4 +1,4 @@
-# Blanca
+# **Blanca**
 # Creating folders and files
 In this section we’re going to create some real files to work with. To avoid accidentally trampling over any of your real files, we’re going to start by creating a new directory, well away from your home folder, which will serve as a safer environment in which to experiment:
 
